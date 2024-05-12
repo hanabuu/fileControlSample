@@ -1,0 +1,12 @@
+{
+  "name": "filecontrolsample",
+  "version": "1.0.0",
+  "description": "fs",
+  "main": "index.js",
+  "scripts": {
+    "readFile": "node readFileSample.js",
+    "writeFile": "node writeFile.js"
+  },
+  "author": "hanabusa",
+  "license": "ISC"
+}
